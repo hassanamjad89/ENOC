@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="865fdd72-f9a6-4f1c-b5fc-1552c4d67a34" 
+        solutionId="865fdd72-f9a6-4f1c-b5fc-1552c4d67a34" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="ENOC_Branding"
+        sharePointProductVersion="15.0">
+</package>

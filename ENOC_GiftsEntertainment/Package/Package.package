@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="f3a16df0-6790-4f79-9529-7ba5bd614b56" 
+        solutionId="f3a16df0-6790-4f79-9529-7ba5bd614b56" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="ENOC_GiftsEntertainment"
+        sharePointProductVersion="15.0">
+</package>
